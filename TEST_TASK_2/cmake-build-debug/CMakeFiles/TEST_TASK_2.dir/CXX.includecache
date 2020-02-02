@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/NUTA/CLionProjects/TEST_TASK_2/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+cmath
+-
+
